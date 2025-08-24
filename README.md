@@ -29,15 +29,10 @@ Build Tool: Vite
 
 Framework: React
 
-(Optional) UI Library: Tailwind CSS or others
+UI Library: Tailwind
 
 API Source: e.g., Frankfurter API or another public currency API 
 GitHub
-+1
-LogRocket Blog
-.
-
-Icons: e.g., React Icons
 
 8. Installation
 git clone https://github.com/Nishant123455/CurrencyConverter.git
